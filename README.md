@@ -8,11 +8,15 @@
 <p align="left"> <a href="https://twitter.com/codingwithavery" target="blank"><img src="https://img.shields.io/twitter/follow/codingwithavery?logo=twitter&style=for-the-badge" alt="codingwithavery" /></a> </p>
 
 - 🔭 I’m currently working on [My-Music](https://github.com/AveryNewhart/my-music)
+- 👨‍💻 My Portfolio [Portfolio](https://averynewhart.com/)
+- 📡 My Email [Email](newhartreeceavery@gmail.com)
+- 📨 Resume [Resume](https://docs.google.com/document/d/1qLdQAMJpWMuR42K3zjjPuVEr6SNflDR7Uwsb2cQOWA8/edit?usp=sharing)
+- 🔗 LinkedIn [LinkedIn](https://www.linkedin.com/in/avery-newhart-0654a9263/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codingwithavery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingwithavery" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avery newhart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avery newhart" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avery-newhart-0654a9263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avery newhart" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
