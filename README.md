@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codingwithavery" target="blank"><img src="https://img.shields.io/twitter/follow/codingwithavery?logo=twitter&style=for-the-badge" alt="codingwithavery" /></a> </p>
 
-- 🔭 I’m currently working on [FitFusion](https://github.com/AveryNewhart/FitFusion)
+- 🔭 I’m currently working on [BetReady](https://github.com/Rilaey/BetReady)
 - 👨‍💻 My Portfolio [Portfolio](https://averynewhart.com/)
 - 📡 My Email [Email](newhartreeceavery@gmail.com)
 - 📨 Resume [Resume](https://docs.google.com/document/d/1qLdQAMJpWMuR42K3zjjPuVEr6SNflDR7Uwsb2cQOWA8/edit?usp=sharing)
